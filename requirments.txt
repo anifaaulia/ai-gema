@@ -1,5 +1,5 @@
 langchain
-crew ai
+crewai
 ⁠streamlit
 ⁠os
 ⁠pydantic
