@@ -1,7 +1,6 @@
 langchain
 crewai
 ⁠streamlit
-⁠os
 ⁠pydantic
 serper
 crewai_tools
